@@ -1,4 +1,4 @@
-﻿# Hashcount -*Marwan Abdalla*
+﻿# Hashcount
 
 ## Compilation
 gcc -Wall -Wextra -pedantic main.c hashtable.c filereader.c -o prog 
