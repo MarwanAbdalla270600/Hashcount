@@ -60,13 +60,3 @@ Die Flags -b und -c können immer erfolgen und die Flags lassen sich auch mitein
  - unistd.h
  - getopt.h
 
-## Completed Tasks
- - [x] 1. Main Task
- - [x] 2. Task 
- - [ ] 3.Task (Zum größten Teil erfüllt. Nur das erste Element des buckets ist nicht Sortiert. Teilpunkte?)
- - [x] 4. Task
- - [x] 5. Task
- - [x] 6. Task
- - [x] 7. Task
-
-
